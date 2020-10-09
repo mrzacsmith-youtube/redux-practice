@@ -18,6 +18,7 @@ const PlayerList = (props) => {
   )
 }
 
+// test
 const mapStateToProps = (state) => {
   return {
     players: state.players,
